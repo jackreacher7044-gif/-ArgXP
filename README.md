@@ -1,2 +1,2 @@
 # -ArgXP
-At ARGXP, our focus is on creating a simple and enjoyable online discovery experience. Argentina is home to diverse cities and neighborhoods, each with its own atmosphere, culture, and lifestyle. Our platform brings useful local information together in one place, helping visitors explore different a
+At ARGXP, our focus is on creating a simple and enjoyable online discovery [ArgXP](https://argxp.com/) experience. Argentina is home to diverse cities and neighborhoods, each with its own atmosphere, culture, and lifestyle. Our platform brings useful local information together in one place, helping visitors explore different areas and discover profiles and services that match their interests and location.
